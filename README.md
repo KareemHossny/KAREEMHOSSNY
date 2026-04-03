@@ -56,7 +56,7 @@ I focus on:
 ## 📫 Contact Me
 
 * 🌐 Portfolio: https://kareemhossny.vercel.app
-* 💼 LinkedIn: (add link)
-* 📧 Email: (add email)
+* 💼 LinkedIn: (https://www.linkedin.com/in/kareem-hossny-89a6b73b2)
+* 📧 Email: (kareemhossny18@icloud.com)
 
 ---
