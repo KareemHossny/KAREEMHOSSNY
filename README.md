@@ -24,14 +24,13 @@ A full-featured system for managing patients, doctors, and appointments with rol
 ### 🛒 E-commerce Platform
 
 A complete e-commerce experience with product management, checkout flow, and admin dashboard.
-👉 [Live Demo](#) | [Repository](#)
+👉 [Live Demo](https://the-kreg-market.vercel.app) | [Repository](https://github.com/KareemHossny/The-Kreg-Market)
 
 ---
 
-### 📊 Dashboard / Admin System
-
-Workflow-heavy dashboard designed for managing operations with multiple user roles and dynamic data.
-👉 [Live Demo](#) | [Repository](#)
+### 📊 Developer Notes / Workflow System
+A system designed to turn scattered development notes and workflows into a clear, structured experience. Supports dynamic data, task organization, and technical documentation with a strong focus on speed, clarity, and usability.
+👉 [Live Demo](https://devnotes-phi.vercel.app) | [Repository](https://github.com/KareemHossny/DevNotes)
 
 ---
 
