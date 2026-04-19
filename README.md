@@ -37,7 +37,7 @@ A full-featured, full-stack e-commerce application with JWT authentication, cart
 
 *   **Problem Solved:** Providing a robust and customizable e-commerce solution for businesses seeking an alternative to off-the-shelf platforms.
 *   **Results:** An efficient sales platform with an enhanced user experience, easy product and order management, and support for secure payment processing.
-*   [**Repository**](https://github.com/KareemHossny/The-Kreg-Market)
+*   [**Live Demo**](https://the-kreg-market.vercel.app/) | [**Repository**](https://github.com/KareemHossny/The-Kreg-Market)
 
 ### 📝 Developer Notes / Workflow System (DevNotes)
 
